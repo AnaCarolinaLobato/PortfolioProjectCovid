@@ -229,5 +229,4 @@ WHERE continent is not null
 GROUP BY Location, population
 --ORDER BY highest_infections DESC
 
-[Tableau](https://public.tableau.com/app/profile/ana.lobato/viz/PortfolioProjectCovid_16361715940640/Dashboard1?publish=yes)
 
